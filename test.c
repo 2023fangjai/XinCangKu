@@ -2,7 +2,9 @@
 
 int main()
 {
-	printf("One");
+	
 
+	printf("Two");
+	
 	return 0;
 }
